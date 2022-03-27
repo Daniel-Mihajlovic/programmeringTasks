@@ -1,4 +1,4 @@
-# programmeringTasks
+#Tasks
 
 To run all the programs they first have to be compiled. This is done by navigating to the correct folder and typing:
 `javac Main.java`.
