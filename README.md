@@ -1,6 +1,6 @@
 # programmeringTasks
 
-To run all the programs they first has to be compiled. This is done by typing:
+To run all the programs they first has to be compiled. This is done by navigating to the correct folder and typing:
 `javac Main.java`.
 
 ## Task 1
